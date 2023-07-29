@@ -285,7 +285,7 @@ footer h4{
     .info{
         background-image: url(/imagens/background.png);
         background-size: cover;
-        background-position: center;
+        background-position: top;
         background-repeat: no-repeat;
         background-color: initial;
     }
