@@ -90,10 +90,10 @@ main{
     padding-right: 1em;
 }
 
-.info div{
+.info div.maxWidth{
     text-align: center;
     margin: auto;
-    width: 80%;
+    width: 85%;
 }
 
 .info_title{
@@ -111,7 +111,7 @@ main{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 1em;
+    padding-bottom: .5em;
 }
 
 #ch{
