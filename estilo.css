@@ -126,6 +126,10 @@ main{
     display: none;
 }
 
+.ch:hover{
+    background-color: color-mix(in srgb, var(--cor-site), #ffffff 20%);
+}
+
 .content{
     height: 20em;
     align-items: center;
